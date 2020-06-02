@@ -5,3 +5,4 @@ The purpose of this notebook is to remind data professionals that sometimes even
 
 Links:
 - [German Tank Problem on Wikipedia](https://en.wikipedia.org/wiki/German_tank_problem)
+- [AutoTel website (English)](https://www.autotel.co.il/en/)
